@@ -4,7 +4,7 @@ My project for the Boot.Dev 2025 Hackathon
 I've always wanted to make a game like Wii Tanks, and this hackathon gave me an excuse to. I'm extremely proud of myself for what I was able to accomplish in such a short time.
 
 HOW TO INSTALL: 
-I've used Pyinstaller to get the whole game into one executable. Just download and run the executable to play the game.
+I've used Pyinstaller to get the whole game into one executable. Go to releases and download the exe, and you're all set!
 
 CONTROLS:
 WASD to move, aim with your mouse, and left-click to shoot!
